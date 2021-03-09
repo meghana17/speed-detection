@@ -4,8 +4,9 @@ Conventional speed measurement techniques use radar or laser based devices. Here
 
 Our experiments have shown the estimated speeds within 5% of actual speeds for both local and highway traffic.
 
-![Screenshot](meghana17.github.io/images/speed1.png)
+![speed2](https://user-images.githubusercontent.com/14092419/110535803-b76d0080-8146-11eb-8591-adf14dae3d0f.png)
 
-# Future work
+
+### Future work
 1. Regularized iterative restoration methods will be incorporated to increase the robustness of our algorithm
 2. More work will be done on taking the picture with the vehicle’s license plate for both the assistance of image restoration and the identification of the moving vehicle. In this case, a camera model with objects moving non-parallel to the image plane will be considered.
